@@ -5,16 +5,16 @@
     },
     "activeFile": "features/Origin.tmx",
     "expandedProjectPaths": [
-        "features",
-        "."
+        ".",
+        "features"
     ],
     "fileStates": {
         "features/Origin.tmx": {
             "scale": 2,
-            "selectedLayer": 2,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 477.5,
-                "y": 795.5
+                "x": 459.75,
+                "y": 874
             }
         },
         "kenny-bw-small.tsx": {
@@ -38,7 +38,7 @@
             "scaleInEditor": 4
         }
     },
-    "last.exportedFilePath": "D:/Work/rhysh/data",
+    "last.exportedFilePath": "D:/Work/rhysh/data/features",
     "last.imagePath": "D:/Mega/- Graphics/Rhysh/tilemaps",
     "lastUsedTilesetExportFilter": "JSON tileset files (*.tsj *.json)",
     "map.height": 32,
@@ -48,15 +48,16 @@
     "openFiles": [
         "features/Origin.tmx",
         "kenny-bw-small.tsx",
-        "rhysh-extra.tsx"
+        "rhysh-extra.tsx",
+        "rhysh-tilemap.tsx"
     ],
     "project": "RhyshMaps.tiled-project",
     "property.type": "string",
     "recentFiles": [
+        "rhysh-tilemap.tsx",
         "rhysh-extra.tsx",
         "kenny-bw-small.tsx",
         "features/Origin.tmx",
-        "rhysh-tilemap.tsx",
         "kenny-bw.tsx",
         "kenny-color.tsx"
     ],

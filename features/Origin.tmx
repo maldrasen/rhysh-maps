@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.9" tiledversion="1.9.2" orientation="orthogonal" renderorder="right-down" width="32" height="32" tilewidth="32" tileheight="32" infinite="0" nextlayerid="4" nextobjectid="1">
+ <editorsettings>
+  <export target="../../rhysh/data/features/Origin.json" format="json"/>
+ </editorsettings>
  <properties>
-  <property name="LargePoint" value="Origin"/>
-  <property name="SmallPoint" value="Trigger:Test"/>
+  <property name="Coins" value="Treasure:small"/>
+  <property name="Event-A" value="EventTrigger:western-guard-tower"/>
+  <property name="Event-B" value="EventTrigger:eastern-guard-tower"/>
+  <property name="Home" value="OriginPoint"/>
+  <property name="South" value="ReturnToTown"/>
  </properties>
  <tileset firstgid="1" source="../rhysh-tilemap.tsx"/>
  <tileset firstgid="257" source="../rhysh-extra.tsx"/>
@@ -43,7 +49,7 @@
 129,129,129,129,129,129,129,129,129,129,129,129,129,129,129,129,129,129,129,129,129,129,129,129,129,129,129,129,129,129,129,129
 </data>
  </layer>
- <layer id="2" name="Extra" width="32" height="32" locked="1">
+ <layer id="2" name="Extra" width="32" height="32">
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -79,14 +85,7 @@
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
- <layer id="3" name="Extended" width="32" height="32">
-  <properties>
-   <property name="Coins" value="Treasure:small"/>
-   <property name="Event-A" value="EventTrigger:western-guard-tower"/>
-   <property name="Event-B" value="EventTrigger:eastern-guard-tower"/>
-   <property name="Home" value="OriginPoint"/>
-   <property name="South" value="ReturnToTown"/>
-  </properties>
+ <layer id="3" name="Extended" width="32" height="32" locked="1">
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
