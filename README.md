@@ -19,5 +19,5 @@ The format for these maps is critical as the code that creates features from the
 - `rhysh-extra`    Extra Layer -    Commonly used icons used to indicate common things like doors and stairs.
 - `kenny-bw-small` Extended Layer - Icons from Kenny's one-bit pack [ https://kenney.nl/assets/bit-pack ] used to map a wide variety of extensions onto a tile.
 
-FeatureTypes:
+### FeatureTypes
 - `PrefabChunk` A complete chunk. Prefab chunks can still define different regions within for random generation.
