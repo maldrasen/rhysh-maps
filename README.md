@@ -21,3 +21,10 @@ The format for these maps is critical as the code that creates features from the
 
 ### FeatureTypes
 - `PrefabChunk` A complete chunk. Prefab chunks can still define different regions within for random generation.
+
+### Extensions
+While some extensions (such as ReturnToTown and OriginPoint) are unique most will be able to be reused in other maps
+- `Battle:(table)` Start a battle using the monsters found in the encounter table.
+- `EventTrigger:(code)` Adds an event to the queue. If the event's requirements are met it's shown immeadietly. 
+- `Treasure:(table)` Adds a simple event generating some treasure for the party. Should only happen once. The table parameter is used to define which treasure table is used to randomly select treasure from.
+
