@@ -7,6 +7,8 @@
   <property name="Coins" value="Treasure:small"/>
   <property name="Event-A" value="EventTrigger:western-guard-tower"/>
   <property name="Event-B" value="EventTrigger:eastern-guard-tower"/>
+  <property name="FeatureName" value="Origin"/>
+  <property name="FeatureType" value="PrefabChunk"/>
   <property name="Home" value="OriginPoint"/>
   <property name="South" value="ReturnToTown"/>
  </properties>
