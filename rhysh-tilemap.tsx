@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tileset version="1.9" tiledversion="1.9.2" name="rhysh-tilemap" tilewidth="32" tileheight="32" tilecount="256" columns="16">
- <image source="../../Mega/- Graphics/Rhysh/tilemaps/rhysh-tilemap.png" width="512" height="512"/>
+ <editorsettings>
+  <export target="../rhysh/data/tilemaps/rhysh-tilemap.json" format="json"/>
+ </editorsettings>
+ <image source="rhysh-tilemap.png" width="512" height="512"/>
  <tile id="0">
   <properties>
    <property name="floor" value="Normal"/>
@@ -45,17 +48,47 @@
  </tile>
  <tile id="7">
   <properties>
-   <property name="region" type="int" value="1"/>
+   <property name="Biome" value="A"/>
   </properties>
  </tile>
  <tile id="8">
   <properties>
-   <property name="region" type="int" value="2"/>
+   <property name="Biome" value="B"/>
   </properties>
  </tile>
  <tile id="9">
   <properties>
-   <property name="region" type="int" value="3"/>
+   <property name="Biome" value="C"/>
+  </properties>
+ </tile>
+ <tile id="10">
+  <properties>
+   <property name="Biome" value="D"/>
+  </properties>
+ </tile>
+ <tile id="11">
+  <properties>
+   <property name="Biome" value="E"/>
+  </properties>
+ </tile>
+ <tile id="12">
+  <properties>
+   <property name="Biome" value="F"/>
+  </properties>
+ </tile>
+ <tile id="13">
+  <properties>
+   <property name="Biome" value="G"/>
+  </properties>
+ </tile>
+ <tile id="14">
+  <properties>
+   <property name="Biome" value="H"/>
+  </properties>
+ </tile>
+ <tile id="15">
+  <properties>
+   <property name="Biome" value="X"/>
   </properties>
  </tile>
  <tile id="16">

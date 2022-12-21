@@ -5,16 +5,16 @@
     },
     "activeFile": "features/Origin.tmx",
     "expandedProjectPaths": [
-        ".",
-        "features"
+        "features",
+        "."
     ],
     "fileStates": {
         "features/Origin.tmx": {
             "scale": 2,
-            "selectedLayer": 1,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 459.75,
-                "y": 874
+                "x": 476.75,
+                "y": 371.5
             }
         },
         "kenny-bw-small.tsx": {
@@ -28,6 +28,10 @@
         "kenny-color.tsx": {
             "scaleInDock": 1,
             "scaleInEditor": 1
+        },
+        "rhysh-extended.tsx": {
+            "scaleInDock": 4,
+            "scaleInEditor": 4
         },
         "rhysh-extra.tsx": {
             "scaleInDock": 4,
@@ -47,7 +51,7 @@
     "map.width": 32,
     "openFiles": [
         "features/Origin.tmx",
-        "kenny-bw-small.tsx",
+        "rhysh-extended.tsx",
         "rhysh-extra.tsx",
         "rhysh-tilemap.tsx"
     ],
@@ -56,8 +60,9 @@
     "recentFiles": [
         "rhysh-tilemap.tsx",
         "rhysh-extra.tsx",
-        "kenny-bw-small.tsx",
+        "rhysh-extended.tsx",
         "features/Origin.tmx",
+        "kenny-bw-small.tsx",
         "kenny-bw.tsx",
         "kenny-color.tsx"
     ],

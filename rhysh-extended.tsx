@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tileset version="1.9" tiledversion="1.9.2" name="kenny-bw-small" tilewidth="16" tileheight="16" spacing="1" margin="1" tilecount="1008" columns="48">
+<tileset version="1.9" tiledversion="1.9.2" name="rhysh-extended" tilewidth="16" tileheight="16" spacing="1" margin="1" tilecount="1008" columns="48">
+ <editorsettings>
+  <export target="../rhysh/data/tilemaps/rhysh-extended.json" format="json"/>
+ </editorsettings>
  <tileoffset x="8" y="-8"/>
- <image source="../../Mega/- Graphics/Rhysh/tilemaps/kenny-bw-small.png" width="832" height="373"/>
+ <image source="rhysh-extended.png" width="832" height="373"/>
  <tile id="23">
   <properties>
    <property name="type" value="Trap-A"/>
@@ -127,6 +130,26 @@
    <property name="type" value="Goal"/>
   </properties>
  </tile>
+ <tile id="363">
+  <properties>
+   <property name="type" value="Cow"/>
+  </properties>
+ </tile>
+ <tile id="364">
+  <properties>
+   <property name="type" value="Horse"/>
+  </properties>
+ </tile>
+ <tile id="366">
+  <properties>
+   <property name="type" value="Cat"/>
+  </properties>
+ </tile>
+ <tile id="367">
+  <properties>
+   <property name="type" value="Dog"/>
+  </properties>
+ </tile>
  <tile id="401">
   <properties>
    <property name="type" value="Flag-A"/>
@@ -145,6 +168,16 @@
  <tile id="449">
   <properties>
    <property name="type" value="Flag-B"/>
+  </properties>
+ </tile>
+ <tile id="492">
+  <properties>
+   <property name="type" value="Toilet"/>
+  </properties>
+ </tile>
+ <tile id="494">
+  <properties>
+   <property name="type" value="Camp"/>
   </properties>
  </tile>
  <tile id="504">
@@ -327,6 +360,11 @@
    <property name="type" value="Event-F"/>
   </properties>
  </tile>
+ <tile id="960">
+  <properties>
+   <property name="type" value="Town"/>
+  </properties>
+ </tile>
  <tile id="983">
   <properties>
    <property name="type" value="North"/>
@@ -370,6 +408,36 @@
  <tile id="991">
   <properties>
    <property name="type" value="Left"/>
+  </properties>
+ </tile>
+ <tile id="1002">
+  <properties>
+   <property name="type" value="Statue-A"/>
+  </properties>
+ </tile>
+ <tile id="1003">
+  <properties>
+   <property name="type" value="Statue-B"/>
+  </properties>
+ </tile>
+ <tile id="1004">
+  <properties>
+   <property name="type" value="Statue-C"/>
+  </properties>
+ </tile>
+ <tile id="1005">
+  <properties>
+   <property name="type" value="Statue-D"/>
+  </properties>
+ </tile>
+ <tile id="1006">
+  <properties>
+   <property name="type" value="Statue-E"/>
+  </properties>
+ </tile>
+ <tile id="1007">
+  <properties>
+   <property name="type" value="Statue-F"/>
   </properties>
  </tile>
 </tileset>
