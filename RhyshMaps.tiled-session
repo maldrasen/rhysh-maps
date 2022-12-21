@@ -3,18 +3,51 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "features/Origin.tmx",
+    "activeFile": "features/Origin-W.tmx",
     "expandedProjectPaths": [
         "features",
         "."
     ],
+    "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
-        "features/Origin.tmx": {
-            "scale": 2,
-            "selectedLayer": 2,
+        "features/Origin-E.tmx": {
+            "scale": 1.7543457031249998,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 476.75,
-                "y": 371.5
+                "x": 522.4169890617608,
+                "y": 513.0117732194051
+            }
+        },
+        "features/Origin-W.tmx": {
+            "scale": 1.7543457031249998,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 496.7664004007905,
+                "y": 513.0117732194051
+            }
+        },
+        "features/Origin.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 512,
+                "y": 511.3333333333333
+            }
+        },
+        "features/Shore.tmx": {
+            "scale": 1.7543457031249998,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 511.5867405160177,
+                "y": 506.17161624314633
+            }
+        },
+        "features/Template.tmx": {
+            "scale": 1.7543457031249998,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 512.7267666787275,
+                "y": 513.0117732194051
             }
         },
         "kenny-bw-small.tsx": {
@@ -30,7 +63,7 @@
             "scaleInEditor": 1
         },
         "rhysh-extended.tsx": {
-            "scaleInDock": 4,
+            "scaleInDock": 2,
             "scaleInEditor": 4
         },
         "rhysh-extra.tsx": {
@@ -38,7 +71,7 @@
             "scaleInEditor": 4
         },
         "rhysh-tilemap.tsx": {
-            "scaleInDock": 4,
+            "scaleInDock": 2,
             "scaleInEditor": 4
         }
     },
@@ -51,17 +84,21 @@
     "map.width": 32,
     "openFiles": [
         "features/Origin.tmx",
-        "rhysh-extended.tsx",
-        "rhysh-extra.tsx",
-        "rhysh-tilemap.tsx"
+        "features/Origin-W.tmx",
+        "features/Origin-E.tmx",
+        "features/Shore.tmx"
     ],
     "project": "RhyshMaps.tiled-project",
     "property.type": "string",
     "recentFiles": [
+        "features/Origin.tmx",
+        "features/Shore.tmx",
+        "features/Origin-E.tmx",
+        "features/Origin-W.tmx",
+        "features/Template.tmx",
         "rhysh-tilemap.tsx",
         "rhysh-extra.tsx",
         "rhysh-extended.tsx",
-        "features/Origin.tmx",
         "kenny-bw-small.tsx",
         "kenny-bw.tsx",
         "kenny-color.tsx"
