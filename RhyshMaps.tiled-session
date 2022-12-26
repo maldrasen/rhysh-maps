@@ -3,51 +3,67 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "features/Origin-W.tmx",
+    "activeFile": "",
     "expandedProjectPaths": [
         "features",
         "."
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
+        "features/FeatureMap-LightForest.tmx": {
+            "scale": 1.7543457031249998,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 515.0068190041471,
+                "y": 356.2581758468091
+            }
+        },
+        "features/Houses-1.tmx": {
+            "scale": 1.7543457031249998,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 512.1567535973728,
+                "y": 512.4417601380502
+            }
+        },
         "features/Origin-E.tmx": {
             "scale": 1.7543457031249998,
             "selectedLayer": 0,
             "viewCenter": {
                 "x": 522.4169890617608,
-                "y": 513.0117732194051
+                "y": 354.5481366027444
             }
         },
         "features/Origin-W.tmx": {
             "scale": 1.7543457031249998,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 496.7664004007905,
-                "y": 513.0117732194051
+                "x": 496.76640040079053,
+                "y": 510.1617078126306
             }
         },
         "features/Origin.tmx": {
             "scale": 1.5,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 512,
-                "y": 511.3333333333333
+                "x": 502.33333333333326,
+                "y": 459.3333333333333
             }
         },
         "features/Shore.tmx": {
             "scale": 1.7543457031249998,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 511.5867405160177,
-                "y": 506.17161624314633
+                "x": 512.1567535973728,
+                "y": 513.0117732194051
             }
         },
         "features/Template.tmx": {
             "scale": 1.7543457031249998,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 512.7267666787275,
-                "y": 513.0117732194051
+                "x": 512.7267666787276,
+                "y": 513.58178630076
             }
         },
         "kenny-bw-small.tsx": {
@@ -83,22 +99,19 @@
     "map.lastUsedFormat": "tmx",
     "map.width": 32,
     "openFiles": [
-        "features/Origin.tmx",
-        "features/Origin-W.tmx",
-        "features/Origin-E.tmx",
-        "features/Shore.tmx"
     ],
     "project": "RhyshMaps.tiled-project",
     "property.type": "string",
     "recentFiles": [
-        "features/Origin.tmx",
-        "features/Shore.tmx",
         "features/Origin-E.tmx",
         "features/Origin-W.tmx",
-        "features/Template.tmx",
+        "rhysh-extended.tsx",
         "rhysh-tilemap.tsx",
         "rhysh-extra.tsx",
-        "rhysh-extended.tsx",
+        "features/Template.tmx",
+        "features/Shore.tmx",
+        "features/FeatureMap-LightForest.tmx",
+        "features/Origin.tmx",
         "kenny-bw-small.tsx",
         "kenny-bw.tsx",
         "kenny-color.tsx"
