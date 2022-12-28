@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "features/Houses-1.tmx",
+    "activeFile": "features/Gardens-1.tmx",
     "expandedProjectPaths": [
         ".",
         "features"
@@ -91,7 +91,7 @@
             "scaleInEditor": 4
         },
         "rhysh-extra.tsx": {
-            "scaleInDock": 4,
+            "scaleInDock": 2,
             "scaleInEditor": 4
         },
         "rhysh-tilemap.tsx": {
@@ -107,11 +107,12 @@
     "map.lastUsedFormat": "tmx",
     "map.width": 32,
     "openFiles": [
-        "features/Houses-1.tmx"
+        "features/Gardens-1.tmx"
     ],
     "project": "RhyshMaps.tiled-project",
     "property.type": "string",
     "recentFiles": [
+        "features/Gardens-1.tmx",
         "features/Houses-1.tmx",
         "features/Origin.tmx",
         "rhysh-extended.tsx",
@@ -122,8 +123,7 @@
         "features/Template.tmx",
         "features/Shore.tmx",
         "features/FeatureMap-LightForest.tmx",
-        "kenny-bw-small.tsx",
-        "kenny-bw.tsx"
+        "kenny-bw-small.tsx"
     ],
     "tileset.lastUsedFormat": "tsx",
     "tileset.margin": 1,
