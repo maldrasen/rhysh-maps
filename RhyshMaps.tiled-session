@@ -3,10 +3,10 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "",
+    "activeFile": "features/Houses-1.tmx",
     "expandedProjectPaths": [
-        "features",
-        "."
+        ".",
+        "features"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
@@ -18,12 +18,20 @@
                 "y": 356.2581758468091
             }
         },
+        "features/Gardens-1.tmx": {
+            "scale": 1.7543457031249998,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 513.2967797600826,
+                "y": 513.58178630076
+            }
+        },
         "features/Houses-1.tmx": {
             "scale": 1.7543457031249998,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 512.1567535973728,
-                "y": 512.4417601380502
+                "x": 511.5867405160178,
+                "y": 514.1517993821149
             }
         },
         "features/Origin-E.tmx": {
@@ -46,7 +54,7 @@
             "scale": 1.5,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 502.33333333333326,
+                "x": 502.33333333333337,
                 "y": 459.3333333333333
             }
         },
@@ -99,22 +107,23 @@
     "map.lastUsedFormat": "tmx",
     "map.width": 32,
     "openFiles": [
+        "features/Houses-1.tmx"
     ],
     "project": "RhyshMaps.tiled-project",
     "property.type": "string",
     "recentFiles": [
+        "features/Houses-1.tmx",
+        "features/Origin.tmx",
+        "rhysh-extended.tsx",
         "features/Origin-E.tmx",
         "features/Origin-W.tmx",
-        "rhysh-extended.tsx",
         "rhysh-tilemap.tsx",
         "rhysh-extra.tsx",
         "features/Template.tmx",
         "features/Shore.tmx",
         "features/FeatureMap-LightForest.tmx",
-        "features/Origin.tmx",
         "kenny-bw-small.tsx",
-        "kenny-bw.tsx",
-        "kenny-color.tsx"
+        "kenny-bw.tsx"
     ],
     "tileset.lastUsedFormat": "tsx",
     "tileset.margin": 1,

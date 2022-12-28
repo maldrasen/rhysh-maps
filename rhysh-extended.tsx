@@ -5,6 +5,21 @@
  </editorsettings>
  <tileoffset x="8" y="-8"/>
  <image source="rhysh-extended.png" width="832" height="373"/>
+ <tile id="5">
+  <properties>
+   <property name="type" value="Grass-A"/>
+  </properties>
+ </tile>
+ <tile id="6">
+  <properties>
+   <property name="type" value="Grass-B"/>
+  </properties>
+ </tile>
+ <tile id="7">
+  <properties>
+   <property name="type" value="Grass-C"/>
+  </properties>
+ </tile>
  <tile id="23">
   <properties>
    <property name="type" value="Trap-A"/>
@@ -45,6 +60,21 @@
    <property name="type" value="Trap-B"/>
   </properties>
  </tile>
+ <tile id="96">
+  <properties>
+   <property name="type" value="Plant-A"/>
+  </properties>
+ </tile>
+ <tile id="97">
+  <properties>
+   <property name="type" value="Plant-B"/>
+  </properties>
+ </tile>
+ <tile id="98">
+  <properties>
+   <property name="type" value="Vine"/>
+  </properties>
+ </tile>
  <tile id="99">
   <properties>
    <property name="type" value="Trees-A"/>
@@ -53,6 +83,16 @@
  <tile id="100">
   <properties>
    <property name="type" value="Tree-F"/>
+  </properties>
+ </tile>
+ <tile id="101">
+  <properties>
+   <property name="type" value="Rocks"/>
+  </properties>
+ </tile>
+ <tile id="102">
+  <properties>
+   <property name="type" value="Plant-C"/>
   </properties>
  </tile>
  <tile id="119">
