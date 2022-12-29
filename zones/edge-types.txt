@@ -1,0 +1,8 @@
+
+Mountain -> Mountain
+  [mont]-[mont]-V-A
+  [mont]-[mont]-H-A
+
+Mountain -> Void
+  [mont]-[void]-V
+  [mont]-[void]-H
