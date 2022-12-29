@@ -1,8 +1,14 @@
 
 Mountain -> Mountain
-  [mont]-[mont]-V-A
-  [mont]-[mont]-H-A
+[mont]-VA
+[mont]-VB
+[mont]-VC
+[mont]-HA
+[mont]-HB
+[mont]-HC
 
-Mountain -> Void
-  [mont]-[void]-V
-  [mont]-[void]-H
+=== Void ===
+There's only one type of void connection. It means that this edge doesn't connect to another chunk. There may be another chunk on the other side, but they cannot connect.
+
+[void]
+
