@@ -3,10 +3,10 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "features/Gardens-1.tmx",
+    "activeFile": "",
     "expandedProjectPaths": [
         ".",
-        "features"
+        "world"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
@@ -22,8 +22,8 @@
             "scale": 1.7543457031249998,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 513.2967797600826,
-                "y": 513.58178630076
+                "x": 513.8667928414374,
+                "y": 514.1517993821149
             }
         },
         "features/Houses-1.tmx": {
@@ -97,21 +97,34 @@
         "rhysh-tilemap.tsx": {
             "scaleInDock": 2,
             "scaleInEditor": 4
+        },
+        "world/world-100.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 1817,
+                "y": 1534
+            }
+        },
+        "world/worldmap.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1.5
         }
     },
     "last.exportedFilePath": "D:/Work/rhysh/data/features",
-    "last.imagePath": "D:/Mega/- Graphics/Rhysh/tilemaps",
+    "last.imagePath": "D:/Work/rhysh-maps/world",
     "lastUsedTilesetExportFilter": "JSON tileset files (*.tsj *.json)",
-    "map.height": 32,
+    "map.height": 100,
     "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
     "map.lastUsedFormat": "tmx",
-    "map.width": 32,
+    "map.width": 100,
     "openFiles": [
-        "features/Gardens-1.tmx"
     ],
     "project": "RhyshMaps.tiled-project",
     "property.type": "string",
     "recentFiles": [
+        "world/worldmap.tsx",
+        "world/world-100.tmx",
         "features/Gardens-1.tmx",
         "features/Houses-1.tmx",
         "features/Origin.tmx",
@@ -121,15 +134,13 @@
         "rhysh-tilemap.tsx",
         "rhysh-extra.tsx",
         "features/Template.tmx",
-        "features/Shore.tmx",
-        "features/FeatureMap-LightForest.tmx",
-        "kenny-bw-small.tsx"
+        "features/Shore.tmx"
     ],
     "tileset.lastUsedFormat": "tsx",
-    "tileset.margin": 1,
-    "tileset.spacing": 1,
+    "tileset.margin": 0,
+    "tileset.spacing": 0,
     "tileset.tileSize": {
-        "height": 16,
-        "width": 16
+        "height": 32,
+        "width": 32
     }
 }
