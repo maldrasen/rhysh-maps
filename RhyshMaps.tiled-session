@@ -5,9 +5,9 @@
     },
     "activeFile": "zones/Mountain-NS-6.tmx",
     "expandedProjectPaths": [
+        "old",
         ".",
         "zones",
-        "old",
         "world"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
@@ -101,11 +101,11 @@
             "scaleInEditor": 4
         },
         "rhysh-extra.tsx": {
-            "scaleInDock": 2,
+            "scaleInDock": 1.5,
             "scaleInEditor": 4
         },
         "rhysh-tilemap.tsx": {
-            "scaleInDock": 1,
+            "scaleInDock": 1.5,
             "scaleInEditor": 4
         },
         "world/world-100.tmx": {
@@ -132,55 +132,55 @@
             "scale": 0.8312499999999999,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 506.46616541353393,
-                "y": 511.27819548872185
+                "x": 511.87969924812035,
+                "y": 512.4812030075188
             }
         },
         "zones/Mountain-NS-2.tmx": {
             "scale": 0.8312499999999999,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 505.26315789473693,
-                "y": 510.07518796992485
+                "x": 511.87969924812035,
+                "y": 512.4812030075188
             }
         },
         "zones/Mountain-NS-3.tmx": {
             "scale": 0.8312499999999999,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 504.06015037593994,
-                "y": 510.07518796992485
+                "x": 511.87969924812035,
+                "y": 512.4812030075188
             }
         },
         "zones/Mountain-NS-4.tmx": {
             "scale": 0.8312499999999999,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 504.06015037593994,
-                "y": 511.27819548872185
+                "x": 511.87969924812035,
+                "y": 512.4812030075188
             }
         },
         "zones/Mountain-NS-5.tmx": {
             "scale": 0.8312499999999999,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 504.06015037593994,
-                "y": 511.27819548872185
+                "x": 511.87969924812035,
+                "y": 512.4812030075188
             }
         },
         "zones/Mountain-NS-6.tmx": {
-            "scale": 0.8312499999999999,
-            "selectedLayer": 0,
+            "scale": 1.5,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 502.85714285714295,
-                "y": 511.27819548872185
+                "x": 503,
+                "y": 511.3333333333333
             }
         },
         "zones/Template.tmx": {
             "scale": 0.8312499999999999,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 512.4812030075188,
+                "x": 511.87969924812035,
                 "y": 512.4812030075188
             }
         },
@@ -209,11 +209,13 @@
         "zones/Mountain-NS-1.tmx",
         "zones/Mountain-NS-2.tmx",
         "zones/Template.tmx",
-        "zones/Mountain-NS-5.tmx"
+        "zones/Mountain-NS-5.tmx",
+        "rhysh-extra.tsx"
     ],
     "project": "RhyshMaps.tiled-project",
     "property.type": "string",
     "recentFiles": [
+        "rhysh-extra.tsx",
         "zones/Mountain-NS-5.tmx",
         "zones/Template.tmx",
         "zones/Mountain-NS-2.tmx",
@@ -223,7 +225,6 @@
         "zones/Mountain-NS-6.tmx",
         "world/worldmap.tmx",
         "rhysh-extended.tsx",
-        "rhysh-extra.tsx",
         "rhysh-tilemap.tsx",
         "old/Origin.tmx"
     ],

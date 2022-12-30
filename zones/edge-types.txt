@@ -14,6 +14,7 @@ Edge names should follow a pattern
 Mountain -> Mountain
 [mont]-HL
 [mont]-HR
+[mont]-HC
 
 === Void ===
 There's only one type of void connection. It means that this edge doesn't connect to another chunk. There may be another chunk on the other side, but they cannot connect.
