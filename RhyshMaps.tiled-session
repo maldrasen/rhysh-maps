@@ -3,12 +3,12 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "zones/Mountain-NS-6.tmx",
+    "activeFile": "zones/Mountain-EW-4.tmx",
     "expandedProjectPaths": [
         "old",
         ".",
-        "zones",
-        "world"
+        "world",
+        "zones"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
@@ -144,6 +144,14 @@
                 "y": 511.27819548872185
             }
         },
+        "zones/Mountain-EW-4.tmx": {
+            "scale": 0.8312499999999999,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 511.2781954887219,
+                "y": 511.27819548872185
+            }
+        },
         "zones/Mountain-NS-1.tmx": {
             "scale": 0.8312499999999999,
             "selectedLayer": 0,
@@ -219,18 +227,14 @@
     "map.tileWidth": 16,
     "map.width": 32,
     "openFiles": [
-        "zones/Mountain-NS-6.tmx",
-        "zones/Mountain-NS-3.tmx",
-        "zones/Mountain-NS-4.tmx",
-        "zones/Mountain-NS-1.tmx",
-        "zones/Mountain-NS-2.tmx",
-        "zones/Template.tmx",
-        "zones/Mountain-NS-5.tmx",
-        "rhysh-extra.tsx"
+        "zones/Mountain-EW-4.tmx",
+        "zones/Mountain-EW-2.tmx"
     ],
     "project": "RhyshMaps.tiled-project",
     "property.type": "string",
     "recentFiles": [
+        "zones/Mountain-EW-2.tmx",
+        "zones/Mountain-EW-4.tmx",
         "zones/Mountain-NS-6.tmx",
         "zones/Mountain-NS-5.tmx",
         "zones/Mountain-NS-4.tmx",
@@ -238,11 +242,9 @@
         "zones/Mountain-NS-2.tmx",
         "zones/Mountain-NS-1.tmx",
         "rhysh-extra.tsx",
-        "zones/Mountain-EW-2.tmx",
         "zones/Template.tmx",
         "world/worldmap.tmx",
-        "rhysh-extended.tsx",
-        "rhysh-tilemap.tsx"
+        "rhysh-extended.tsx"
     ],
     "tileset.lastUsedFormat": "tsx",
     "tileset.margin": 0,
