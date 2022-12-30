@@ -4,8 +4,8 @@
   <property name="Biome-A" value="MountainCave"/>
   <property name="Biome-B" value="Mountain"/>
   <property name="EdgeE" value="[void]"/>
-  <property name="EdgeN" value="[mont]-VA"/>
-  <property name="EdgeS" value="[mont]-VB"/>
+  <property name="EdgeN" value="[mont]-HL"/>
+  <property name="EdgeS" value="[mont]-HR"/>
   <property name="EdgeW" value="[void]"/>
   <property name="ZoneType" value="Mountain"/>
  </properties>
